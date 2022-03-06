@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fiji/Documents/workspace/c/two-stacks'
+gcc -O3 main.c -o two-stacks
+./two-stacks ""
+make: Leaving directory '/home/fiji/Documents/workspace/c/two-stacks'
+ 
